@@ -10,6 +10,7 @@
 ## What I'm Up To! 
 <br> I'm currently working on: 
 - Personal Portfolio Website
+- Photo Booth App
 
 <br> 🌱 I’m currently learning:
 - Frameworks and Backend
