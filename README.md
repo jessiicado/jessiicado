@@ -9,11 +9,11 @@
 
 ## What I'm Up To! 
 <br> I'm currently working on: 
-- Personal Portfolio Website
-- Photo Booth App
+- Stock Market Simulator Discord Bot
 
 <br> 🌱 I’m currently learning:
 - Frameworks and Backend
+- LLM/ML
 - LeetCode LOL
 
 ## My Tech Stack! 
