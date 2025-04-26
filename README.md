@@ -1,7 +1,8 @@
 
 
 # Hi, I'm Jessica! 👋
-
+<div align="center">
+ <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="night city background gif" height="250" />
 ## About Me!
  I'm a Computer Science student who is really passionate in creating ideas into reality! I love to explore into software development and machine learning! I have some engineering background such as AutoCAD and Blender experience, and hope to apply those in my projects!
 
