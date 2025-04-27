@@ -2,6 +2,7 @@
 # Hi, I'm Jessica! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jessicanhudo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessicahu.do@gmail.com)
 
 
 <p align="center">
