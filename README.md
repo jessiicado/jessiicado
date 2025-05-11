@@ -28,6 +28,7 @@
 
 ## 🌸 WORK IN PROGRESS 🌸
 ✦ Stock Market Simulator Discord Bot
+✦ Plann'd Group Trip App
 
 ## 🌸 CURRENTLY LEARNING 🌸
 ✦ Frameworks and Backend
