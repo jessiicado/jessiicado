@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jessicanhudo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessicahu.do@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio%20-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)](https://jessiicado.com)
 
 <p align="center">
  <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="night city background gif" height="400" width="1000" />
