@@ -15,7 +15,7 @@
  I love to explore into software development and machine learning!
  I have some engineering background such as AutoCAD and Blender experience, 
  and hope to apply those in my projects! </p> 
-<h3 align="left">⟡ Computer Science at Wharton County Junior College</h3>
+<h3 align="left">⟡ CS @ University of Houston</h3>
 <div align="left">
 <h2>
 🌸 INTERESTS! 
@@ -27,7 +27,6 @@
 </div>
 
 ## 🌸 WORK IN PROGRESS 🌸
-✦ Stock Market Simulator Discord Bot
 ✦ Plann'd Group Trip App
 
 ## 🌸 CURRENTLY LEARNING 🌸
